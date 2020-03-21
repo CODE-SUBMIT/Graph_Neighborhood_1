@@ -1,7 +1,7 @@
 # Mutual Information Maximization in Graph Neural Networks
 
 # Overview
-This repository is the implementation of the accepted IJCNN 2020 paper 'Mutual Information Maximization in Graph Neural Networks'. In the paper, we proposed a neighborhood combination method for graph learning including supervised/semi-supervised graph classification, graph link prediction, and graph edge generation/classification. The proposed approach improves the performance of the following graph models: 
+This repository is the implementation of the paper titled 'Mutual Information Maximization in Graph Neural Networks', which is accepted by IJCNN 2020. In the paper, we extend the graph neural networks frameworks by exploring the aggregation and iteration scheme in the methodology of mutual information. We propose a new approach of enlarging the normal neighborhood in the aggregation of GNNs, which aims at maximizing mutual information. The proposed approach improves the performance of the following graph models: 
 
 * **[GCN](https://github.com/weihua916/powerful-gnns)** from Xu *et al.*: [Representation learning on graphs: Methods and applications](https://arxiv.org/abs/1709.05584) (2017)
 
@@ -25,20 +25,20 @@ This repository is the implementation of the accepted IJCNN 2020 paper 'Mutual I
 
 Different models are in separated folders.
 
-# Experiment Results
-## Experiment No 1:
+# Experimental results
+## Experiment No. 1:
 Supervised graph classification in comparison with GCN and GIN on 7 datasets.
 <p align="left"><img width="50%" src="figs/table1.png"/></p>
 
-## Experiment No 2:
+## Experiment No. 2:
 Supervised graph classification in comparison with KNN-LDS on 6 datasets.
 <p align="left"><img width="50%" src="figs/table2.png"/></p>
 
-## Experiment No 3:
+## Experiment No. 3:
 Supervised graph classification in comparison with P-WL and its variants on 2 datasets.
 <p align="left"><img width="50%" src="figs/table3.png"/></p>
 
-## Experiemt No 4:
+## Experiment No 4:
 Semi-supervised graph classification in comparison with GMNN on 3 datasets.
 <p align="left"><img width="50%" src="figs/table4.png"/></p>
 
@@ -55,7 +55,7 @@ Edge generation and graph classification.
 Graph classification with node attribute.
 <p align="left"><img width="50%" src="figs/table8.png"/></p>
 
-## Experiment No 8:
+## Experiment No. 8:
 Graph classification in comparison with GCN, MGCN and MGCNK.
 <p align="left"><img width="50%" src="figs/table9.png"/></p>
 
@@ -63,10 +63,10 @@ Graph classification in comparison with GCN, MGCN and MGCNK.
 Supervised graph classification in comparison with two transformation forms and two baseline models.
 <p align="left"><img width="50%" src="figs/table10.png"/></p>
 
-## Experiment No 10:
+## Experiment No. 10:
 Supervised graph classification for three datasets in comparison with Mixhop and (s)gmnn.
 <p align="left"><img width="50%" src="figs/table11.png"/></p>
 
-## Experiment No 11:
+## Experiment No. 11:
 Supervised graph classification in comparison with the state-of-the-art models on 13 datasets.
 <p align="left"><img width="50%" src="figs/table12.png"/></p>
