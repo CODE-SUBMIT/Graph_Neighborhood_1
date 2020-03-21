@@ -1,8 +1,8 @@
-# Experiment No2 & Experiment No6
+# Experiment No. 2 & Experiment No. 6
 
 ### Requirements
 
-The code is written Python 3.6 and TensorFlow version 1 (tested on versions 1.12 and 1.16). 
+The code is written in Python 3.6 and TensorFlow version 1 (tested on versions 1.12 and 1.16). 
 It requires scikit-learn >= 0.21.2 and the python 
 packages 
 - `FAR-HO`, available [here](https://github.com/lucfra/FAR-HO) (advised branch: final_ICML2019)
@@ -38,13 +38,13 @@ The main script is in the file `lds.py`. The options are
 
 For experiments with incomplete graphs on Cora and Citeseer, run 
 ```
-#Experiment No6
+#Experiment No. 6
 python lds.py -m lds -e {an integer between 0 and 100} -d {cora or citeseer} -s {if you want to specify random seed}#(s)lds
 ```
 
 For experiments in semi-supervised learning (with no input graph), run
 ```
-#Experiment No2
+#Experiment No. 2
 python lds.py -m knnlds -d {any available dataset} -s {if you want to specify random seed}#(s)knn-lds
 ```
 
