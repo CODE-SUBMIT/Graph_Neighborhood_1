@@ -38,20 +38,20 @@ Supervised graph classification in comparison with KNN-LDS on 6 datasets.
 Supervised graph classification in comparison with P-WL and its variants on 2 datasets.
 <p align="left"><img width="50%" src="figs/table3.png"/></p>
 
-## Experiment No 4:
+## Experiment No. 4:
 Semi-supervised graph classification in comparison with GMNN on 3 datasets.
 <p align="left"><img width="50%" src="figs/table4.png"/></p>
 
-## Experiment No 5:
+## Experiment No. 5:
 Graph link prediction.
 <p align="left"><img width="50%" src="figs/table5.png"/></p>
 <p align="left"><img width="50%" src="figs/table6.png"/></p>
 
-## Experiment No 6:
+## Experiment No. 6:
 Edge generation and graph classification.
 <p align="left"><img width="50%" src="figs/table7.png"/></p>
 
-## Experiment No 7:
+## Experiment No. 7:
 Graph classification with node attribute.
 <p align="left"><img width="50%" src="figs/table8.png"/></p>
 
@@ -59,7 +59,7 @@ Graph classification with node attribute.
 Graph classification in comparison with GCN, MGCN and MGCNK.
 <p align="left"><img width="50%" src="figs/table9.png"/></p>
 
-## Experiment No 9:
+## Experiment No. 9:
 Supervised graph classification in comparison with two transformation forms and two baseline models.
 <p align="left"><img width="50%" src="figs/table10.png"/></p>
 
