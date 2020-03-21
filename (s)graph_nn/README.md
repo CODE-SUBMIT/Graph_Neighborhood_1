@@ -1,4 +1,4 @@
-# Experiment 7 & Experiment 8 & Experiment 9
+# Experiment No.7 & Experiment No. 8 & Experiment No. 9
 
 ## Test run
 git clone https://github.com/bknyaz/graph_nn.git
