@@ -1,7 +1,7 @@
 # Mutual Information Maximization in Graph Neural Networks
 
 # Overview
-This repository is the implementation of the paper titled 'Mutual Information Maximization in Graph Neural Networks', which is accepted by IJCNN 2020. In the paper, we extend the graph neural networks frameworks by exploring the aggregation and iteration scheme in the methodology of mutual information. We propose a new approach of enlarging the normal neighborhood in the aggregation of graph neural networks, which aims at maximizing mutual information. The proposed approach improves the performance of the following graph models: 
+This repository contains the implementation of paper titled 'Mutual Information Maximization in Graph Neural Networks', which was accepted by IJCNN 2020. In the paper, we extend the graph neural networks frameworks by exploring the aggregation and iteration scheme in the methodology of mutual information. We propose a new approach of enlarging the normal neighborhood in the aggregation of graph neural networks, which aims at maximizing mutual information. The proposed approach improves the performance of the following graph models: 
 
 * **[GCN](https://github.com/weihua916/powerful-gnns)** from Xu *et al.*: [Representation learning on graphs: Methods and applications](https://arxiv.org/abs/1709.05584) (2017)
 
