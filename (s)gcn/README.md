@@ -1,4 +1,4 @@
-# Experiment No1:
+# Experiment No. 1:
 
 ## Installation
 Install PyTorch following the instuctions on the [official website] (https://pytorch.org/). The code has been tested over PyTorch 0.4.1 and 1.0.0 versions.
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## Test run
-git clone https://github.com/weihua916/powerful-gnns.git
+Git clone https://github.com/weihua916/powerful-gnns.git
 Unzip the dataset file
 ```
 unzip dataset.zip
@@ -33,5 +33,5 @@ Type
 python main.py --help
 ```
 
-to learn hyper-parameters to be specified.
+to learn how the hyper-parameters is specified.
 
