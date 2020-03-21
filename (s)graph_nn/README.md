@@ -13,8 +13,9 @@ python graph_unet.py --model mgcn -K 2  # to run (s)Multigraph ChebNet with filt
 
 
 ```bash
-# Experiment No7
+# Experiment No. 7
 # Examples
+
 # no use -c flag
 ```python graph_unet.py -D ENZYMES -f 128,128,128 --n_hidden 256 --lr 0.0005 --epochs 100 --lr_decay_step 150 -g
 
@@ -29,7 +30,7 @@ python graph_unet.py --model mgcn -K 2  # to run (s)Multigraph ChebNet with filt
 ```python graph_unet.py -D ENZYMES -f 128,128,128 --n_hidden 256 --lr 0.0005 --c --bn --epochs 100 --lr_decay_step 150 -g
 
 
-# Experiment No8
+# Experiment No. 8
 # Examples
 
 ```bash
@@ -44,7 +45,7 @@ python graph_unet.py --model mgcn -K 2  # to run (s)Multigraph ChebNet with filt
 ```python graph_unet.py -M gcn -K 2 -f 32,32,32 --n_hidden 96 --bn --epochs 50 --lr_decay_steps 25,35,45 --lr 0.001
 
 
-# Experiment No9
+# Experiment No. 9
 # Examples
 Repeating 10 times for different seeds:
 ```bash
