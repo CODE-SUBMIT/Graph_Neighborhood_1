@@ -1,8 +1,8 @@
-# Experiments No3
+# Experiments No. 3
 
 ## Examples 
 
-To run `(s)PWL-C` on `MUTAG` with 0 WL iterations and p=1, run 
+Run `(s)PWL-C` on `MUTAG` with 0 WL iterations and p=1
 ```
 $ cd src
 $ python main.py -c -n 0 -p 1 data/MUTAG/*.gml -l data/MUTAG/Labels.txt
