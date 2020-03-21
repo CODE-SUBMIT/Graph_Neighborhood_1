@@ -33,5 +33,5 @@ Type
 python main.py --help
 ```
 
-to learn how the hyper-parameters is specified.
+to see how the hyper-parameters is specified.
 
