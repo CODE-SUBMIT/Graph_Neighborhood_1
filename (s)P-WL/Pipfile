@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pip = "==18.0"
+pip = "==21.1"
 sklearn = "*"
 numpy = "*"
 tqdm = "*"
